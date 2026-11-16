@@ -1,0 +1,9 @@
+{
+  "name": "watcher-30-3-test",
+  "private": true,
+  "type": "module",
+  "description": "A test repo with a planted bug, standing in for our server in the Watcher's 30.3 demo.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
